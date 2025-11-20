@@ -1,8 +1,8 @@
 :root {
-    --color-background: pink;
-    --color-on-background: blue;
+    --color-background: white;
+    --color-on-background: black;
     --color-background-hover: #eee;
-    --color-on-background-hover: yellow;
+    --color-on-background-hover: black;
     --color-primary: #0066ff;
     --color-on-primary: white;
     --color-error: #de0000;
